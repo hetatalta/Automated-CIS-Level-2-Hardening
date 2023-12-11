@@ -1,6 +1,13 @@
 Python Script for Automated CIS Level 2 Hardening
 This script automatically checks the operating system, downloads the corresponding CIS benchmark, and applies Level 2 hardening.
 
+**** This script will only work on the following operating systems ****
+
+microsoft-windows-server-2019
+ubuntu-linux-22.04-lts
+
+***********************************************************************
+
 Requirements:
 
 Python 3.x
